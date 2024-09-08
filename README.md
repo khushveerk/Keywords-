@@ -43,6 +43,9 @@ MACos
 
 LINUX
 
+# Cloud Computing
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.  
+
 # Bare Metal System
 A bare-metal system is a computer system that operates directly on the hardware without the use of an operating system. This means that the software running on the system has direct access to the hardware resources, such as the CPU, memory, and Input/Output devices.
 
