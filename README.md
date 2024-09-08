@@ -30,6 +30,11 @@ It is based on RISC principles and develop in 2023 and which is a free open sour
 # 7.ASIC:-
 ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
 
+# STORAGE:-
+
+1.primary storage: RAM
+2.secondary storage:hard disk,CD 
+
 # NETWORK:-
 
 # Local Area Network (LAN):
