@@ -34,3 +34,7 @@ ASIC stands for Application-Specific integrated circuit. it's a type of integrat
 # Local Area Network (LAN):
 A LAN covers a small geographic area, such as a home, office, or campus. It connects devices within this limited area.
 
+# Wide Area Network (WAN): 
+A WAN spans a large geographic area, like multiple cities, countries.  WANs can be public, like the internet, or private, like intranet.
+
+
