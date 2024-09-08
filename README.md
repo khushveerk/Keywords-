@@ -44,22 +44,25 @@ LINUX
 # BLOCKCHAIN:
 Blockchain is a decentralized digital ledger technology that securely records transactions across multiple computers in a way that prevents alteration or tampering. It operates as a chain of blocks, each containing a list of transactions. Once a block is added to the chain, it is difficult to change any information in that block without altering all subsequent blocks, which requires consensus from the network. This makes blockchain a transparent and secure method for managing and verifying transactions. It's commonly used in cryptocurrencies like Bitcoin but also has applications in various other fields, such as supply chain management, voting systems, and smart contracts.
 Some famous examples are 
-# ARM
+# 1.ARM
 
-# CISC[complex instruction set computer]-
+# 2.CISC[complex instruction set computer]-
 it is a closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978.
 
-# .RISC[reduced instruction set computer]-
+# 3.RISC[reduced instruction set computer]-
 it is a close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
 
-#  RISC-V-
+# 4.RISC-V-
 It is based on RISC principles and develop in 2023 and which is a free open source. it also have a project called SHAKTI.
 
-# .ASIC:-
+# 5.ASIC:-
 ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
 
 # VIRTUAL MACHINE
 A virtual machine (VM) is a software-based emulation of a physical computer that allows multiple operating systems or instances to run on a single physical machine. VMs provide isolation, encapsulation, and resource efficiency, making them valuable for development, testing, and production environments. They come in two main types: system virtual machines, which emulate entire systems, and process virtual machines, which abstract individual applications. While VMs offer numerous advantages, including flexibility and efficient resource utilization, they also come with performance overhead and management complexity.
+
+# .Kernel
+The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
 # IP ADDRESS
 An IP address (Internet Protocol address) is a unique string of numbers separated by periods or colons that identifies each device connected to a network. IP addresses serve two primary functions: identifying the host or network interface and providing the location of the host in the network. They are essential for routing internet traffic and ensuring data reaches the correct destination.
@@ -93,3 +96,19 @@ API stands for Application Programming Interface. It is a set of rules and proto
 connect Frontend and Backend
 
 #Together, these components work to create a complete web application, with the frontend providing the user experience, the backend managing data and logic, and the API facilitating communication between the two.
+
+# The 7 layers of OSI model:-
+
+#:-Layer 7 : Application Layer - The application layer is used by end-user software such as web browsers and email clients.
+
+#:-Layer 6 : Presentation Layer - The presentation layer prepares data for the application layer. It defines how two devices should encode, encrypt, and compresses data so it is received correctly on the other end.
+
+#:-Layer 5 : Session Layer - The session layer creates communication channels, called sessions, between devices.
+
+#:-Layer 4 : Transport Layer - The transport layer takes data transferred in the session layer and breaks it into “segments” on the transmitting end.
+
+#:-Layer 3 : Networking Layer - The network layer has two main functions. One is breaking up segments into network packets, and reassembling the packets on the receiving end.
+
+#:-Layer 2 : Data-Link-Layer - The data link layer establishes and terminates a connection between two physically-connected nodes on a network.
+
+#:-Layer 1 : Physical Layer - The physical layer is responsible for the physical cable or wireless connection between network nodes.
