@@ -99,16 +99,16 @@ connect Frontend and Backend
 
 # The 7 layers of OSI model:-
 
-#:-Layer 7 : Application Layer - The application layer is used by end-user software such as web browsers and email clients.
+#:-Layer 7 : (Application Layer) - The application layer is used by end-user software such as web browsers and email clients.
 
-#:-Layer 6 : Presentation Layer - The presentation layer prepares data for the application layer. It defines how two devices should encode, encrypt, and compresses data so it is received correctly on the other end.
+#:-Layer 6 : (Presentation Layer )- The presentation layer prepares data for the application layer. It defines how two devices should encode, encrypt, and compresses data so it is received correctly on the other end.
 
-#:-Layer 5 : Session Layer - The session layer creates communication channels, called sessions, between devices.
+#:-Layer 5 : (Session Layer )- The session layer creates communication channels, called sessions, between devices.
 
-#:-Layer 4 : Transport Layer - The transport layer takes data transferred in the session layer and breaks it into “segments” on the transmitting end.
+#:-Layer 4 : (Transport Layer )- The transport layer takes data transferred in the session layer and breaks it into “segments” on the transmitting end.
 
-#:-Layer 3 : Networking Layer - The network layer has two main functions. One is breaking up segments into network packets, and reassembling the packets on the receiving end.
+#:-Layer 3 : ((Networking Layer) - The network layer has two main functions. One is breaking up segments into network packets, and reassembling the packets on the receiving end.
 
-#:-Layer 2 : Data-Link-Layer - The data link layer establishes and terminates a connection between two physically-connected nodes on a network.
+#:-Layer 2 : (Data-Link-Layer) - The data link layer establishes and terminates a connection between two physically-connected nodes on a network.
 
-#:-Layer 1 : Physical Layer - The physical layer is responsible for the physical cable or wireless connection between network nodes.
+#:-Layer 1 :( Physical Layer) - The physical layer is responsible for the physical cable or wireless connection between network nodes.
