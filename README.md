@@ -80,4 +80,16 @@ DNS stands for Domain Name System. It functions like a phone book for the intern
 A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security.
 
 When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
+# FRONTEND,BACKEND AND API(Application Programming Interface)
 
+In web development, the terms frontend, backend, and API refer to different aspects of building and managing applications. Here’s a breakdown of each:
+
+# 1.Frontend
+Frontend refers to the client-side of a web application. It encompasses everything that users interact with directly in their web browsers. This includes:
+# 2.Backend
+Backend refers to the server-side of a web application. It involves everything that happens on the server and is responsible for managing and processing data. Key aspects include:
+# 3.API
+API stands for Application Programming Interface. It is a set of rules and protocols that allows different software applications to communicate with each other. APIs can be used to
+connect Frontend and Backend
+
+#Together, these components work to create a complete web application, with the frontend providing the user experience, the backend managing data and logic, and the API facilitating communication between the two.
