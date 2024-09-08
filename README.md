@@ -26,5 +26,9 @@ it is a close source like ARM[Adavnce risc machine] .It has specific intruction,
 # 6.RISC-V-
 It is based on RISC principles and develop in 2023 and which is a free open source. it also have a project called SHAKTI.
 
-# 7.KERNEL-
+# 7.ASIC:-
+ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
+
+
+# 8.KERNEL-
 It manages operations between computer and hardware.
