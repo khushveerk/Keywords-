@@ -2,7 +2,7 @@
 # 1.DESKTOP-->
 Desktop mainly divided into three parts- 1. Computation 2.Storage 3. Network
 
-# 2.SOME TERMS -
+# 2.Computation :-
 
 CPU-central processing unit
 It is the primary component of a computer that performs most of the processing tasks.often to referred to as the "brain" of the computer.
@@ -16,6 +16,7 @@ TPU-tensor processing unit
 
 # 3.SOC(SYSTEM ON A CHIP)-
 A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
+
 
 # 4.CISC[complex instruction set computer]-
 it is a closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978.
@@ -36,5 +37,14 @@ A LAN covers a small geographic area, such as a home, office, or campus. It conn
 
 # Wide Area Network (WAN): 
 A WAN spans a large geographic area, like multiple cities, countries.  WANs can be public, like the internet, or private, like intranet.
+# OPERATING SYSTEM(OS): 
+An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs. it act as an intermediary between users and computer hardware
 
+The most commonly used Operating System(OS):-
+
+WINDOWS
+
+MACos
+
+LINUX
 
