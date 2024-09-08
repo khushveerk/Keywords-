@@ -5,10 +5,10 @@ Desktop mainly divided into three parts- 1. Computation 2.Storage 3. Network
 # 2.SOME TERMS -
 
 CPU-central processing unit
-It is the primary component of a computer that performs most of the processing tasks.often to referred to as the "brain" of the computer, the CPU executes instruction from proggrams through its control unit, arthmetic logic unit(ALU),and registers.
-
+It is the primary component of a computer that performs most of the processing tasks.often to referred to as the "brain" of the computer.
 
 GPU-graphic processing unit
+It is a specialized processor designed to handle and accelerate the rendering of images, video and animation.It can handle many operations simultaneously.
 
 DPU-data processing unit
 
