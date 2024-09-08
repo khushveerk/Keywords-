@@ -29,6 +29,8 @@ It is based on RISC principles and develop in 2023 and which is a free open sour
 # 7.ASIC:-
 ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
 
+# NETWORK:-
 
-# 8.KERNEL-
-It manages operations between computer and hardware.
+# Local Area Network (LAN):
+A LAN covers a small geographic area, such as a home, office, or campus. It connects devices within this limited area.
+
