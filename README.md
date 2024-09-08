@@ -73,3 +73,11 @@ Fiber-optic: Uses fiber-optic cables for high-speed internet access.
 Satellite: Provides internet access via satellite signals, useful in remote areas.
 Wireless: Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
 
+# DNS(Domain Name System)
+DNS stands for Domain Name System. It functions like a phone book for the internet, translating human-friendly domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network.
+
+# VPN(Virtual Private Network)
+A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security.
+
+When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
+
