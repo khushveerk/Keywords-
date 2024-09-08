@@ -20,8 +20,9 @@ A System on Chip or an SoC is an integrated circuit that incorporates a majority
  
 # 2. STORAGE:-
 
-1.primary storage: RAM
-2.secondary storage:hard disk,CD 
+1.primary storage: it is volatile. Primary memory provides very fast access to data,smaller capacity. e.g.RAM
+2.secondary storage: it is Non-volatile
+,Slower access,larger capacity: .e.g.hard disk,CD 
 
 # 3.NETWORK:-
 
@@ -30,6 +31,7 @@ A LAN covers a small geographic area, such as a home, office, or campus. It conn
 
 # 3.2 Wide Area Network (WAN): 
 A WAN spans a large geographic area, like multiple cities, countries.  WANs can be public, like the internet, or private, like intranet.
+
 # OPERATING SYSTEM(OS): 
 An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs. it act as an intermediary between users and computer hardware
 
@@ -40,6 +42,11 @@ WINDOWS
 MACos
 
 LINUX
+
+# Bare Metal System
+A bare-metal system is a computer system that operates directly on the hardware without the use of an operating system. This means that the software running on the system has direct access to the hardware resources, such as the CPU, memory, and Input/Output devices.
+
+In simpler terms, it's like running a car without a driver: the engine and other components are working directly, without any intermediary system to manage them.
 
 # BLOCKCHAIN:
 Blockchain is a decentralized digital ledger technology that securely records transactions across multiple computers in a way that prevents alteration or tampering. It operates as a chain of blocks, each containing a list of transactions. Once a block is added to the chain, it is difficult to change any information in that block without altering all subsequent blocks, which requires consensus from the network. This makes blockchain a transparent and secure method for managing and verifying transactions. It's commonly used in cryptocurrencies like Bitcoin but also has applications in various other fields, such as supply chain management, voting systems, and smart contracts.
