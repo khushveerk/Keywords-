@@ -1,7 +1,7 @@
 # Keywords-
 # DESKTOP-->
 Desktop mainly divided into three parts- 1. Computation 2.Storage 3. Network
-
+![IMG_20240909_201730](https://github.com/user-attachments/assets/9cf04ff1-cfc8-452b-8fa6-211ab5971c45)
 # 1.Computation :-
 
 1.1 CPU-central processing unit
