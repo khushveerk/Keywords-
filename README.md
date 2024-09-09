@@ -37,6 +37,8 @@ A LAN covers a small geographic area, such as a home, office, or campus. It conn
 # 3.2 Wide Area Network (WAN): 
 A WAN spans a large geographic area, like multiple cities, countries.  WANs can be public, like the internet, or private, like intranet.
 
+![Screenshot_2024_0909_203223](https://github.com/user-attachments/assets/bc00de1d-5e42-4275-8ca2-8df333ef4dd8)
+
 # OPERATING SYSTEM(OS): 
 An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs. it act as an intermediary between users and computer hardware
 
