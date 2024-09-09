@@ -16,6 +16,8 @@ It is a specialized processor designed to handle and accelerate the rendering of
 
 
 ![Screenshot_2024_0909_082828](https://github.com/user-attachments/assets/7401797f-4fb0-4fa9-9202-30d38fd45d27)
+
+
 # .SOC(SYSTEM ON A CHIP)-
 A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
@@ -97,6 +99,8 @@ DNS stands for Domain Name System. It functions like a phone book for the intern
 
 # VPN(Virtual Private Network)
 A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security.
+
+![Screenshot_2024_0909_202756](https://github.com/user-attachments/assets/e51dbb07-2f5d-4685-b599-efdf326dcf2d)
 
 When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
 # FRONTEND,BACKEND AND API(Application Programming Interface)
