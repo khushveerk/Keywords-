@@ -140,3 +140,19 @@ connect Frontend and Backend
 #:-Layer 1 :( Physical Layer) - The physical layer is responsible for the physical cable or wireless connection between network nodes.
 
 ![Screenshot_2024_0909_082923](https://github.com/user-attachments/assets/0c22aec4-2ec4-462f-8f61-62e2ad649d2e)
+
+# Semiconductors 
+Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other electronic devices.
+
+ # Function
+Semiconductors process data, store information, and control electronic devices.
+
+# Production 
+There are many 2-3 companies in the world that manufacture chips .e.g 
+TSMC ,intel , samsung.
+And the machines used for producing chips is provided by ASML company 
+
+# Architecture 
+X-86 :- intel,AMD
+CISC :- Intel,AMD
+RISC :- ARM 
