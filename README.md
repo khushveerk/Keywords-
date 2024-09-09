@@ -14,6 +14,8 @@ It is a specialized processor designed to handle and accelerate the rendering of
 
 1.4 TPU-tensor processing unit
 
+
+![Screenshot_2024_0909_082828](https://github.com/user-attachments/assets/7401797f-4fb0-4fa9-9202-30d38fd45d27)
 # .SOC(SYSTEM ON A CHIP)-
 A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
