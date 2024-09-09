@@ -21,6 +21,7 @@ A System on Chip or an SoC is an integrated circuit that incorporates a majority
 # 2. STORAGE:-
 
 1.primary storage: it is volatile. Primary memory provides very fast access to data,smaller capacity. e.g.RAM
+
 2.secondary storage: it is Non-volatile
 ,Slower access,larger capacity: .e.g.hard disk,CD 
 
