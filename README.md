@@ -154,6 +154,8 @@ There are many 2-3 companies in the world that manufacture chips .e.g
 TSMC ,intel , samsung.
 And the machines used for producing chips is provided by ASML company 
 
+![Screenshot_2024_0909_204240](https://github.com/user-attachments/assets/7c97a743-8b4d-4140-aa21-020d7e2f57d7)
+
 # Architecture 
 X-86 :- intel,AMD
 CISC :- Intel,AMD
