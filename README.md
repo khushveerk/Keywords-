@@ -144,7 +144,9 @@ connect Frontend and Backend
 # Semiconductors 
 Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other electronic devices.
 
- # Function
+Screenshot_2024_0909_204127](https://github.com/user-attachments/assets/e658798a-4082-48a9-a0bd-5aa1af6cf1a0)
+
+# Function
 Semiconductors process data, store information, and control electronic devices.
 
 # Production 
