@@ -156,6 +156,9 @@ And the machines used for producing chips is provided by ASML company
 
 ![Screenshot_2024_0909_204240](https://github.com/user-attachments/assets/7c97a743-8b4d-4140-aa21-020d7e2f57d7)
 
+
+![Screenshot_2024_0909_204309](https://github.com/user-attachments/assets/924a2bbd-2750-42b3-a50c-27b9c1cb38e9)
+
 # Architecture 
 X-86 :- intel,AMD
 CISC :- Intel,AMD
