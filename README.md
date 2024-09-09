@@ -128,3 +128,5 @@ connect Frontend and Backend
 #:-Layer 2 : (Data-Link-Layer) - The data link layer establishes and terminates a connection between two physically-connected nodes on a network.
 
 #:-Layer 1 :( Physical Layer) - The physical layer is responsible for the physical cable or wireless connection between network nodes.
+
+![Screenshot_2024_0909_082923](https://github.com/user-attachments/assets/0c22aec4-2ec4-462f-8f61-62e2ad649d2e)
