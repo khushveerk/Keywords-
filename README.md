@@ -54,6 +54,8 @@ A network interface card, also known as NIC or network interface controller, is 
 # Cloud Computing
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.  
 
+![Screenshot_2024_0909_203052](https://github.com/user-attachments/assets/2faa8ff0-e334-4dff-a6f8-d9dcf69c1b1f)
+
 # Bare Metal System
 A bare-metal system is a computer system that operates directly on the hardware without the use of an operating system. This means that the software running on the system has direct access to the hardware resources, such as the CPU, memory, and Input/Output devices.
 
