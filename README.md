@@ -85,6 +85,8 @@ The kernel is a computer program at the core of a computer's operating system an
 # IP ADDRESS
 An IP address (Internet Protocol address) is a unique string of numbers separated by periods or colons that identifies each device connected to a network. IP addresses serve two primary functions: identifying the host or network interface and providing the location of the host in the network. They are essential for routing internet traffic and ensuring data reaches the correct destination.
 
+![Screenshot_2024_0909_202900](https://github.com/user-attachments/assets/7a3bf82e-8acd-462e-80dc-9c49ea499cae)
+
 # ISP(Internet Service Provider)
 An ISP, or Internet Service Provider, is a company or organization that provides individuals and businesses with access to the internet. ISPs offer various types of internet connections, including:
 
