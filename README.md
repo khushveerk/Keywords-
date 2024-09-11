@@ -280,5 +280,7 @@ Inheritance is a feature of object-oriented programming that allows code reusabi
 # CRYPTOGRAPHY-
 Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process. IMAGE
 
+![Screenshot_2024_0911_143025](https://github.com/user-attachments/assets/348a00d0-904d-4149-ac2e-a0a23a26d3ec)
+
 # TYPES OF CRYPTOGRAPHY-
 There are two types of cryptography 1.symmetric 2.asymmetric
