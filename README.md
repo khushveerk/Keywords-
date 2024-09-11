@@ -257,6 +257,8 @@ The term "von Neumann architecture" has evolved to refer to any stored-program c
 
 encapsulation (or OOP Encapsulation) refers to the bundling of data, along with the methods that operate on that data, into a single unit.Encapsulation is a way to achieve “information hiding” so, you don’t “need to know the internal workings of the mobile phone to operate” with it.
 
+![Screenshot_2024_0911_141740](https://github.com/user-attachments/assets/0c7286ff-b387-4609-aa89-b1844165a090)
+
 # abstruction-
 Abstraction on the other side can be explained as the capability to use the same interface for different objects. Different implementations of the same interface can exist. Details are hidden by encapsulation.
 
