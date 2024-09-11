@@ -243,3 +243,23 @@ The term "von Neumann architecture" has evolved to refer to any stored-program c
 17.enter the above and type :-vi index.html ( by writing this  a new page will appear in which you have to either type html code aur copy paste it from GitHub), 
 
 18.to run the code type :- control+c ,shift+ ,wq and enter
+
+# Data Structure 
+
+# OOPS[object-oriented programming system]--> C + OOPS=C++.
+
+# OOPS contain-- a.class b.object c.reference d.construction
+
+# TYPES OF OOPS
+
+
+encapsulation (or OOP Encapsulation) refers to the bundling of data, along with the methods that operate on that data, into a single unit.Encapsulation is a way to achieve “information hiding” so, you don’t “need to know the internal workings of the mobile phone to operate” with it.
+
+# abstruction-
+Abstraction on the other side can be explained as the capability to use the same interface for different objects. Different implementations of the same interface can exist. Details are hidden by encapsulation.
+
+# Polymorphism-
+Polymorphism is a concept, which allows us to redefine the way something works, by either changing how it is done or by changing the parts used to get it done.
+
+# Inheritance-
+Inheritance is a feature of object-oriented programming that allows code reusability when a class includes property of another class. Considering HumanBeing a class, that has properties like hands, legs, eyes, mouth, etc, and functions like walk, talk, eat, see, etc.
