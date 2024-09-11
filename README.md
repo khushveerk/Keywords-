@@ -188,6 +188,8 @@ RISC :- ARM
 # Hypervisor :-
 A hypervisor is a software layer that allows multiple virtual machines (VMs) to run on the same physical machine. It's also known as a virtual machine monitor (VMM)
 
+![Screenshot_2024_0911_142721](https://github.com/user-attachments/assets/25bf2353-8753-468a-8698-06d0812da3ff)
+
 >Types of hypervisor
 # (i)Type 1
 
