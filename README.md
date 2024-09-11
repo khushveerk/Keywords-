@@ -204,6 +204,7 @@ A proxy server is a system or router that provides a gateway between users and t
 
 # apache-
 client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes. The purpose of the daemon is to respond to network, hardware, or system requests to perform certain tasks.
+![Screenshot_2024_0911_142806](https://github.com/user-attachments/assets/689293eb-3d64-4008-b1ad-d05388d89147)
 
 # Packets- 
 Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined by client computer
