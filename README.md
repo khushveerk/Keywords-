@@ -94,6 +94,18 @@ An IP address (Internet Protocol address) is a unique string of numbers separate
 
 ![Screenshot_2024_0909_202900](https://github.com/user-attachments/assets/7a3bf82e-8acd-462e-80dc-9c49ea499cae)
 
+# SSL[secure socket layer]-
+ip address[layer3]+ port number[layer4]
+
+# Port number-
+a way to indentify a specific process to which an internet or other network message is to be forwarded when it arrives at a server. eg:
+HTTP-80
+HTTPS-443
+FTP-20,21
+SMTP-25
+TELMET-23
+SSH[secure shell]-22
+
 # ISP(Internet Service Provider)
 An ISP, or Internet Service Provider, is a company or organization that provides individuals and businesses with access to the internet. ISPs offer various types of internet connections, including:
 
