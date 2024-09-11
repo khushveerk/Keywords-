@@ -250,6 +250,8 @@ The term "von Neumann architecture" has evolved to refer to any stored-program c
 
 # OOPS contain-- a.class b.object c.reference d.construction
 
+![Screenshot_2024_0911_141703](https://github.com/user-attachments/assets/409eb165-4014-4097-b82e-98d16d943f54)
+
 # TYPES OF OOPS
 
 
