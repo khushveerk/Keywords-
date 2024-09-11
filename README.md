@@ -109,11 +109,16 @@ SSH[secure shell]-22
 # ISP(Internet Service Provider)
 An ISP, or Internet Service Provider, is a company or organization that provides individuals and businesses with access to the internet. ISPs offer various types of internet connections, including:
 
-DSL (Digital Subscriber Line): Uses telephone lines to provide internet access.
-Cable: Uses cable television lines for internet service.
-Fiber-optic: Uses fiber-optic cables for high-speed internet access.
-Satellite: Provides internet access via satellite signals, useful in remote areas.
-Wireless: Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
+# DSL (Digital Subscriber Line):
+Uses telephone lines to provide internet access.
+# Cable: 
+Uses cable television lines for internet service.
+# Fiber-optic:
+Uses fiber-optic cables for high-speed internet access.
+# Satellite:
+Provides internet access via satellite signals, useful in remote areas.
+# Wireless: 
+Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
 
 # DNS(Domain Name System)
 DNS stands for Domain Name System. It functions like a phone book for the internet, translating human-friendly domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network.
@@ -124,6 +129,7 @@ A VPN, or Virtual Private Network, is a service that creates a secure, encrypted
 ![Screenshot_2024_0909_202756](https://github.com/user-attachments/assets/e51dbb07-2f5d-4685-b599-efdf326dcf2d)
 
 When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
+
 # FRONTEND,BACKEND AND API(Application Programming Interface)
 
 In web development, the terms frontend, backend, and API refer to different aspects of building and managing applications. Here’s a breakdown of each:
@@ -267,3 +273,9 @@ Polymorphism is a concept, which allows us to redefine the way something works, 
 
 # Inheritance-
 Inheritance is a feature of object-oriented programming that allows code reusability when a class includes property of another class. Considering HumanBeing a class, that has properties like hands, legs, eyes, mouth, etc, and functions like walk, talk, eat, see, etc.
+
+# CRYPTOGRAPHY-
+Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process. IMAGE
+
+# TYPES OF CRYPTOGRAPHY-
+There are two types of cryptography 1.symmetric 2.asymmetric
