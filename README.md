@@ -163,3 +163,15 @@ And the machines used for producing chips is provided by ASML company
 X-86 :- intel,AMD
 CISC :- Intel,AMD
 RISC :- ARM 
+
+# Hypervisor :-
+A hypervisor is a software layer that allows multiple virtual machines (VMs) to run on the same physical machine. It's also known as a virtual machine monitor (VMM)
+
+>Types of hypervisor
+# (i)Type 1
+
+Also known as a bare-metal or native hypervisor, this type of hypervisor runs directly on the host's hardware. It's more secure and stable than Type 2 hypervisors, and is often used in enterprise data centers and server-based environments. Type 1 hypervisors can implement their own resource allocation strategies for virtual machines (VMs). Examples of Type 1 hypervisors include Microsoft Hyper-V, VMware vSphere, and KVM.
+
+# (ii)Type 2
+
+Also known as a hosted hypervisor, this type of hypervisor runs on top of an operating system as a software layer or application. Type 2 hypervisors are easier to install, configure, and use than Type 1 hypervisors, and are more user-friendly. However, Type 2 hypervisors are less efficient than Type 1 hypervisors because they negotiate resource allocation with the operating system. Examples of Type 2 hypervisors include VMware Workstation, Oracle VirtualBox, and Parallels Desktop
