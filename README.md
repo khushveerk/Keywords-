@@ -190,3 +190,18 @@ Also known as a bare-metal or native hypervisor, this type of hypervisor runs di
 # (ii)Type 2
 
 Also known as a hosted hypervisor, this type of hypervisor runs on top of an operating system as a software layer or application. Type 2 hypervisors are easier to install, configure, and use than Type 1 hypervisors, and are more user-friendly. However, Type 2 hypervisors are less efficient than Type 1 hypervisors because they negotiate resource allocation with the operating system. Examples of Type 2 hypervisors include VMware Workstation, Oracle VirtualBox, and Parallels Desktop
+
+# proxy server-
+A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network. It is a server, referred to as an “intermediary” because it goes between end-users and the web pages they visit online.
+
+# apache-
+client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes. The purpose of the daemon is to respond to network, hardware, or system requests to perform certain tasks.
+
+# Packets- 
+Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined by client computer
+
+# Load balancer-
+It is the method of distributing network traffic eqaully across a pull of resources that support an application.
+
+# Von Neumann architecture and harvard architecture -
+The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time
