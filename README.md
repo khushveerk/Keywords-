@@ -291,3 +291,6 @@ There are two types of cryptography 1.symmetric 2.asymmetric
 Python is a high-level, interpreted, and general-purpose programming language known for its readability, simplicity, and versatility. Developed by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to express concepts in fewer lines of code compared to other languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
 ![Screenshot_2024_0913_234618](https://github.com/user-attachments/assets/dfd834cf-7eee-4c84-9da4-47417bdd4451)
+
+# Load Balancer:
+A resource that assists in distributing incoming network traffic evenly across several servers to avoid overloading a single server. Docker: A framework that employs containers to package software and its dependencies ensuring uniform performance in different environments.
