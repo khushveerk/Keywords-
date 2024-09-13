@@ -294,3 +294,7 @@ Python is a high-level, interpreted, and general-purpose programming language kn
 
 # Load Balancer:
 A resource that assists in distributing incoming network traffic evenly across several servers to avoid overloading a single server. Docker: A framework that employs containers to package software and its dependencies ensuring uniform performance in different environments.
+
+https://github.com/user-attachments/assets/a71ebb1f-3e6a-48b1-8ff2-584031a92eba
+
+
