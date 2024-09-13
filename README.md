@@ -86,6 +86,8 @@ A field-programmable gate array is a type of integrated circuit that can be prog
 # VIRTUAL MACHINE
 A virtual machine (VM) is a software-based emulation of a physical computer that allows multiple operating systems or instances to run on a single physical machine. VMs provide isolation, encapsulation, and resource efficiency, making them valuable for development, testing, and production environments. They come in two main types: system virtual machines, which emulate entire systems, and process virtual machines, which abstract individual applications. While VMs offer numerous advantages, including flexibility and efficient resource utilization, they also come with performance overhead and management complexity.
 
+![Screenshot_2024_0913_234825](https://github.com/user-attachments/assets/ff624130-3a08-4cbd-b229-569bd5ecc113)
+
 # .Kernel
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
