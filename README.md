@@ -284,3 +284,4 @@ Cryptography is a method of protecting information and communications through th
 
 # TYPES OF CRYPTOGRAPHY-
 There are two types of cryptography 1.symmetric 2.asymmetric
+
