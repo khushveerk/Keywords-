@@ -150,6 +150,9 @@ connect Frontend and Backend
 
 #Together, these components work to create a complete web application, with the frontend providing the user experience, the backend managing data and logic, and the API facilitating communication between the two.
 
+
+![IMG_20240914_210529_225](https://github.com/user-attachments/assets/b3e5e906-d8de-4342-9a18-dfb02f0eb567)
+
 # The 7 layers of OSI model:-
 
 #:-Layer 7 : (Application Layer) - The application layer is used by end-user software such as web browsers and email clients.
