@@ -217,6 +217,9 @@ It is the method of distributing network traffic eqaully across a pull of resour
 # Von Neumann architecture and harvard architecture -
 The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time
 
+# Devops :-
+DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working
+
 # How to make a vm( virtual machine)= 
 
 1.make an account on aws.
