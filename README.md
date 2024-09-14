@@ -227,6 +227,8 @@ The term "von Neumann architecture" has evolved to refer to any stored-program c
 # Devops :-
 DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working
 
+ ![Screenshot_2024_0914_211354](https://github.com/user-attachments/assets/239c71e2-430f-49c5-ba5e-886bb4b8ff1c)
+
 # How to make a vm( virtual machine)= 
 
 1.make an account on aws.
