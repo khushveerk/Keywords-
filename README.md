@@ -53,6 +53,10 @@ LINUX
 # NIC
 A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers.
 
+# Open Source/ Closed Source :-
+Open source software refers to computer software whose source is open means the general public can access and use it. In short, it is referred to as OSS. The source code of open-source software is public. It uses the code freely available on the Internet. This code can be modified by other users and organizations means that the source code is available for anyone to look at.
+Closed Sourcesoftware refers to computer software whose source code is closed means the public is not given access to the source code. In short it is referred as CSS. In closed source software the source code is protected. The only individual or organization who has created the software can only change it.
+
 # Cloud Computing
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.  
 
