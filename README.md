@@ -306,3 +306,5 @@ https://github.com/user-attachments/assets/a71ebb1f-3e6a-48b1-8ff2-584031a92eba
 
 # Database Management System :-
  It is a software or technology used to manage data from a database. Some popular databases are MySQL, Oracle, MongoDB, etc. DBMS provides many operations e.g. creating a database, Storing in the database, updating an existing database, delete from the database. DBMS is a system that enables you to store, modify, and retrieve data in an organized way. It also provides security to the database
+
+![IMG_20240914_210453_425](https://github.com/user-attachments/assets/eb069d2b-51f7-4bf1-9df0-630b9de1c1ff)
