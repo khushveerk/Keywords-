@@ -224,6 +224,9 @@ Its a small segment of a large message. Data send over computer networks, such a
 # Load balancer-
 It is the method of distributing network traffic eqaully across a pull of resources that support an application.
 
+
+![Screenshot_2024_0914_211555](https://github.com/user-attachments/assets/59c11535-f162-4136-9615-7fa330bf5f51)
+
 # Von Neumann architecture and harvard architecture -
 The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time
 
