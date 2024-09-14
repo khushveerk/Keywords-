@@ -208,6 +208,9 @@ Also known as a bare-metal or native hypervisor, this type of hypervisor runs di
 
 Also known as a hosted hypervisor, this type of hypervisor runs on top of an operating system as a software layer or application. Type 2 hypervisors are easier to install, configure, and use than Type 1 hypervisors, and are more user-friendly. However, Type 2 hypervisors are less efficient than Type 1 hypervisors because they negotiate resource allocation with the operating system. Examples of Type 2 hypervisors include VMware Workstation, Oracle VirtualBox, and Parallels Desktop
 
+
+![Screenshot_2024_0914_211500](https://github.com/user-attachments/assets/f74bd020-b134-4127-896c-644ff500ce0c)
+
 # proxy server-
 A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network. It is a server, referred to as an “intermediary” because it goes between end-users and the web pages they visit online.
 
