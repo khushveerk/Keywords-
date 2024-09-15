@@ -53,9 +53,14 @@ LINUX
 # NIC
 A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers.
 
+
+![Screenshot_2024_0914_214710](https://github.com/user-attachments/assets/1c5cc1f6-9527-44b7-b3ff-ee2223ef3ec0)
+
 # Open Source/ Closed Source :-
 Open source software refers to computer software whose source is open means the general public can access and use it. In short, it is referred to as OSS. The source code of open-source software is public. It uses the code freely available on the Internet. This code can be modified by other users and organizations means that the source code is available for anyone to look at.
 Closed Sourcesoftware refers to computer software whose source code is closed means the public is not given access to the source code. In short it is referred as CSS. In closed source software the source code is protected. The only individual or organization who has created the software can only change it.
+
+![Screenshot_2024_0914_215338](https://github.com/user-attachments/assets/c89e427d-8787-4d89-b485-50bd515a17c6)
 
 # Cloud Computing
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.  
@@ -81,8 +86,14 @@ it is a close source like ARM[Adavnce risc machine] .It has specific intruction,
 # 4.RISC-V-
 It is based on RISC principles and develop in 2023 and which is a free open source. it also have a project called SHAKTI.
 
+
+![Screenshot_2024_0914_215006](https://github.com/user-attachments/assets/75a590e8-f2ef-4653-9bbf-4d6ae6f197f0)
+
 # 5.ASIC:-
 ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
+
+
+![Screenshot_2024_0914_214850](https://github.com/user-attachments/assets/38dd74d1-a434-4819-8fe7-c9e2419c2652)
 
 # FPGA(field programmable gate array)-
 A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.This feature sets FPGAs apart from Application Specific Integrated Circuits (ASICs). The latter is explicitly made for a given goal, which one cannot change later.
