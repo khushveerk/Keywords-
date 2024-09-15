@@ -56,6 +56,8 @@ A network interface card, also known as NIC or network interface controller, is 
 
 ![Screenshot_2024_0914_214710](https://github.com/user-attachments/assets/1c5cc1f6-9527-44b7-b3ff-ee2223ef3ec0)
 
+![Screenshot_2024_0914_215518](https://github.com/user-attachments/assets/505fd74c-4ed5-4deb-a67c-26d4ce2fb782)
+
 # Open Source/ Closed Source :-
 Open source software refers to computer software whose source is open means the general public can access and use it. In short, it is referred to as OSS. The source code of open-source software is public. It uses the code freely available on the Internet. This code can be modified by other users and organizations means that the source code is available for anyone to look at.
 Closed Sourcesoftware refers to computer software whose source code is closed means the public is not given access to the source code. In short it is referred as CSS. In closed source software the source code is protected. The only individual or organization who has created the software can only change it.
@@ -134,6 +136,9 @@ Uses telephone lines to provide internet access.
 Uses cable television lines for internet service.
 # Fiber-optic:
 Uses fiber-optic cables for high-speed internet access.
+
+![Screenshot_2024_0914_220026](https://github.com/user-attachments/assets/dae82593-0151-4916-87ae-fc09d11fb449)
+
 # Satellite:
 Provides internet access via satellite signals, useful in remote areas.
 # Wireless: 
@@ -141,6 +146,8 @@ Uses radio signals to connect to the internet, which can include both fixed wire
 
 # DNS(Domain Name System)
 DNS stands for Domain Name System. It functions like a phone book for the internet, translating human-friendly domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network.
+
+![Screenshot_2024_0914_215918](https://github.com/user-attachments/assets/464c48f9-8bd9-48e7-ab7f-cc9a0b3ce0d6)
 
 # VPN(Virtual Private Network)
 A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security.
