@@ -95,6 +95,8 @@ A virtual machine (VM) is a software-based emulation of a physical computer that
 # .Kernel
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
+![Screenshot_2024_0914_214429](https://github.com/user-attachments/assets/24679208-5d0a-42d6-b4d9-b1339e35337a)
+
 # IP ADDRESS
 An IP address (Internet Protocol address) is a unique string of numbers separated by periods or colons that identifies each device connected to a network. IP addresses serve two primary functions: identifying the host or network interface and providing the location of the host in the network. They are essential for routing internet traffic and ensuring data reaches the correct destination.
 
@@ -220,6 +222,8 @@ client server - uses httpd(d stands for dameon: continuously runs in background)
 
 # Packets- 
 Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined by client computer
+
+![Screenshot_2024_0914_214238](https://github.com/user-attachments/assets/639f0d68-46a2-4d5b-847a-f1212ae7fbc3)
 
 # Load balancer-
 It is the method of distributing network traffic eqaully across a pull of resources that support an application.
