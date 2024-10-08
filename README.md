@@ -115,6 +115,15 @@ An IP address (Internet Protocol address) is a unique string of numbers separate
 
 ![Screenshot_2024_0909_202900](https://github.com/user-attachments/assets/7a3bf82e-8acd-462e-80dc-9c49ea499cae)
 
+# Port No. -
+a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.
+• [for http - 80
+• SSH(Secure Shell) - 22
+• SMTP - 25
+• Telnet - 23
+• https - 443
+• DNS - 53
+ 
 # SSL[secure socket layer]-
 ip address[layer3]+ port number[layer4]
 
