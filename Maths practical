@@ -1,0 +1,110 @@
+ #horizontal list 1
+import numpy as np
+list_1=[ 15,4,25,"Hello" , "Tutorialpoint"]
+vector_1 =np.array(list_1)
+print(' Given List =' , list_1)
+
+print(" the resultant horizontal vector is : ")
+print(vector_1)
+
+
+
+
+
+#creating a matrix using numpy.mat()function
+
+inputmatrix = np.matrix([[1,2,3],
+                     [4,5,6],
+                     [7,8,9]])
+
+print("The created matrix is :")
+print(inputmatrix)
+
+
+
+
+
+#program to add two matrices using nested loop
+#using list comprehension 
+x = [[ 1,2,3],
+[ 4,5,6],
+[ 7,8,9]]
+
+y =[[9,8,7],
+[ 6,5,4],
+[ 3,2,1]]
+
+result = [[0,0,0],
+[0,0,0],
+[0,0,0]]
+# iterate through rows:
+for i in range(len(x)):
+#iterate through columns:
+  for j in range(len(x[0])):
+      result [i] [j] = x[i] [j] + y[i] [j]
+
+for r in result:
+  print(r)
+
+
+
+
+
+#program to add two matrices 
+#using numpy
+
+import numpy as np 
+
+x =np.matrix([[ 1,2,3],
+             [ 4,5,6],
+             [ 7,8,9]])
+
+print("matrix x is as follows :",x)
+
+y =np.matrix([[9,8,7],
+            [ 6,5,4],
+            [ 3,2,1]])
+print("matrix y is as follows :",y)
+
+print("Addtion of matrices x and y is as follows :")
+result=np.array(x) +np.array(y)
+print(result)
+
+
+
+
+
+#program to subtract two matrices 
+#using numpy
+
+print("Subtraction of matrices x and y is as follows: ")
+result=np.array(x) -np.array(y)
+print(result)
+
+
+
+
+#program to multiply two matrices 
+#using numpy
+
+print("Multiplication of matrices x and y is as follows: ")
+result= np.dot(x,y)
+print(result)
+
+
+
+
+# matrix creation of n*n
+
+n = 4
+matrix =[[i * n for j in range(1,n+1)] for i in enumerate(range(n))]
+
+print("The created matrix of n*n :" + str(matrix))
+
+
+
+
+#program to find the rank of a matrix 
+#using numpy
+
+import numpy as np 
